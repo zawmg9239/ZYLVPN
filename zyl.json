@@ -1,0 +1,28 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/zawmg9239/ZYLVPN/raw/main/ZawYeLwin.zip" ,
+"Changelog":"
+Latest update 29/11/2022
+Welcome To ZYL VPN
+TRUE No Pro
+DTAC No Pro
+Edit the TRUE files
+Edit  the DTAC files
+Add function to page load
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
